@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/color/common_google_signin_btn_text_light.xml",
+        "source": "co.notix.notix_inapp_flutter-jetified-play-services-base-18.0.1-4:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/color/common_google_signin_btn_text_dark.xml",
+        "source": "co.notix.notix_inapp_flutter-jetified-play-services-base-18.0.1-4:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/color/common_google_signin_btn_tint.xml",
+        "source": "co.notix.notix_inapp_flutter-jetified-play-services-base-18.0.1-4:/color/common_google_signin_btn_tint.xml"
+    }
+]

@@ -76,7 +76,7 @@ flutter:
      - assets/images/pastaNoodles/
      - assets/images/meat_game/
      - assets/images/hot_cold_desserts/
-     - assets/images/fishShellFish/
+    #  - assets/images/fishShellFish/
 
   #markdown Assets
      - assets/markdowns/kitchen101/

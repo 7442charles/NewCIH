@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/layout-v21/notification_template_icon_group.xml",
+        "source": "co.notix.notix_inapp_flutter-core-1.6.0-1:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/layout-v21/notification_template_custom_big.xml",
+        "source": "co.notix.notix_inapp_flutter-core-1.6.0-1:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/layout-v21/notification_action_tombstone.xml",
+        "source": "co.notix.notix_inapp_flutter-core-1.6.0-1:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "co.notix.notix_inapp_flutter-merged_res-18:/layout-v21/notification_action.xml",
+        "source": "co.notix.notix_inapp_flutter-core-1.6.0-1:/layout-v21/notification_action.xml"
+    }
+]
