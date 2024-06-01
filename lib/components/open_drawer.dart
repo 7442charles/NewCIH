@@ -83,7 +83,8 @@ class MyDrawer extends StatelessWidget {
                 style: TextStyle(color: Colors.white, fontSize: 18.0),
               ),
               onTap: () async {
-                await showInterstitialAd();
+                const WebViewPage();
+                print('cliced');
               },
             ),
             ListTile(
