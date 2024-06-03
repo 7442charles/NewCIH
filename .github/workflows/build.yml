@@ -19,7 +19,7 @@ jobs:
         flutter-version: '3.3.0' # Specify the Flutter version that includes Dart 2.19.0 or later
 
     - name: Install Dart SDK
-      uses: dart-lang/setup-dart@v2
+      uses: Dart-Code/setup-dart@v1
       with:
         dart-sdk: '>=2.19.0 <3.0.0'
 
